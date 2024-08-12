@@ -1,0 +1,37 @@
+.my-table{
+    background-color:white;
+}
+
+.my-table .heading{
+    background-color: blueviolet;
+}
+.my-table .heading2{
+    background-color: lightgreen;
+}
+.my-table .sub1{
+    background-color: lightslategray;
+}
+.my-table .sub2{
+    background-color: lightslategray;
+}
+.my-table .sub3{
+    background-color: lightslategray;
+}
+.my-table .err{
+    background-color: red;
+}
+.my-table tr .err1{
+    background-color:white;
+}
+.my-table tr .emy{
+    background-color:white;
+}
+.my-table .empty{
+    background-color:grey;
+}
+.my-table .forecast{
+    background-color:darkorange;
+}
+.my-table .gap{
+    background-color:grey;
+}
